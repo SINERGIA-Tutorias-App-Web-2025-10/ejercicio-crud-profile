@@ -1,0 +1,15 @@
+{
+  "components" : {
+    "title-profile": "Profile Management"
+  },
+
+
+  "profiles": {
+    "button-new-profile": "New Profile",
+    "button-edit-profile": "Edit Profile",
+    "button-delete": "delete",
+    "button-export": "export"
+  }
+
+
+}
